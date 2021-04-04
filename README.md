@@ -21,5 +21,8 @@
   * Diana DeGette won the election with a total of 272,892 votes, making up 73.8% of the total votes! 
   * ![alt text](https://github.com/amarks5/Election_Analysis/blob/main/Resources/winning_candidate_stats.PNG)  
 ## Election-Audit Summary:
-1. could pull percentage of republican/democratic split(percentage)
-2. could percentage of vote per county per candidate
+We could use this skeleton code that I've made in future elections as well as elections on a bigger scale (i.e. the presidental election). There are different pieces of data we could look at, pull and compare:
+  * Total votes per county per candidate
+    * Percentage of vote per county per candidate  
+  * Could pull percentage of republican/democratic split
+  * If given the data of zipcodes - we could find what zipcode (city) contributes the most to the county. This data would be helpful/important to campaign managers - we could see where we are getting the most votes from and make adjustments with where we choose to campaign, cutting costs and saving money.
