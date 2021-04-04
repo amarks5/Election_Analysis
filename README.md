@@ -8,7 +8,7 @@
   * Arapahoe: Total votes: 38,855, Percentage: 10.5%
   * Denver: Total votes: 306,055, Percentage: 82.8%
   * Jefferson: Total votes: 24,801, Percentage: 6.7%
-    ** ![alt text](https://github.com/amarks5/Election_Analysis/blob/main/Resources/county_votes_breakdown.PNG)
+  * ![alt text](https://github.com/amarks5/Election_Analysis/blob/main/Resources/county_votes_breakdown.PNG)
 
 * Which county had the largest number of votes?
 * Provide a breakdown of the number of votes and the percental of the total votes each candidate received
