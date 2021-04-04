@@ -1,11 +1,5 @@
 # Election_Analysis
-###Module 3
-##Overview of Election Audit
-
-##Election Audit Results
-
-##Election Audit Summary
-
-##Challenge Overview
-
-##Challenge Summary
+## Overview of Election Audit
+## Election-Audit Results:
+* bullet list
+## Election-Audit Summary:
