@@ -2,7 +2,7 @@
 ## Overview of Election Audit
 ## Election-Audit Results:
 * There were a total of 369,711 votes in this congressional election.
-   *![alt text](https://github.com/amarks5/Election_Analysis/blob/main/Resources/total_votes_congressional_election.PNG)
+   * ![alt text](https://github.com/amarks5/Election_Analysis/blob/main/Resources/total_votes_congressional_election.PNG)
 
 * Provide a breakdown of the number of votes and the percentage of totals votes for each county in the precinct
 * Which county had the largest number of votes?
