@@ -18,7 +18,7 @@
   * Raymon Anthony Doane with a total of 11,606 votes, receiving 3.1% of the total votes.
   * ![alt text](https://github.com/amarks5/Election_Analysis/blob/main/Resources/votes_per_candidate_percentage.PNG)
 * Winning Candidate:
-  * Diana DeGette!
+  * Diana DeGette won the election with a total of 272,892 votes, making up 73.8% of the total votes! 
   * ![alt text](https://github.com/amarks5/Election_Analysis/blob/main/Resources/winning_candidate_stats.PNG)  
 ## Election-Audit Summary:
 1. could pull percentage of republican/democratic split(percentage)
