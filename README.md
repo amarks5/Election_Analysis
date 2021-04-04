@@ -1,5 +1,13 @@
 # Election_Analysis
 ## Overview of Election Audit
+Overall goal was to be able to deliver the following information:
+  * Total number of votes cast
+  * A complete list of candidates who received votes
+  * Total number of votes each candidate received
+  * Percentage of votes each candidate won
+  * The winner of the election based on popular vote
+  * Largest county turnout
+  * Print election analysis to a txt file
 ## Election-Audit Results:
 * There were a total of 369,711 votes in this congressional election.
    * ![alt text](https://github.com/amarks5/Election_Analysis/blob/main/Resources/total_votes_congressional_election.PNG)
