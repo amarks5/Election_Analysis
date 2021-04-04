@@ -8,6 +8,7 @@ Overall goal was to be able to deliver the following information:
   * The winner of the election based on popular vote
   * Largest county turnout
   * Print election analysis to a txt file
+  * Find other ways we could apply this code to future elections/projects
 ## Election-Audit Results:
 * There were a total of 369,711 votes in this congressional election.
    * ![alt text](https://github.com/amarks5/Election_Analysis/blob/main/Resources/total_votes_congressional_election.PNG)
