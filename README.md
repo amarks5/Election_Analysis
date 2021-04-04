@@ -26,3 +26,5 @@ We could use this skeleton code that I've made in future elections as well as el
     * Percentage of vote per county per candidate  
   * Could pull percentage of republican/democratic split
   * If given the data of zipcodes - we could find what zipcode (city) contributes the most to the county. This data would be helpful/important to campaign managers - we could see where we are getting the most votes from and make adjustments with where we choose to campaign, cutting costs and saving money.
+  * Compare total votes by zipcode and party alignment which would inform get out the vote efforts.
+  * Historical elections to compare trends and see how each county is voting in different types of elections to identify trends to inform campaign strategy. For example, if I know a county is historically democratic/republican I don't need to campaign to change minds/idealogy, I need to show face and show support. Helps me identify what campaign issues are most important in that zipcode and that informs my communication strategy and platform ideas.
