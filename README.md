@@ -12,7 +12,11 @@
 
 * County with largest turnout: Denver
   * ![alt text](https://github.com/amarks5/Election_Analysis/blob/main/Resources/largest_county_turnout.PNG)
-* Provide a breakdown of the number of votes and the percental of the total votes each candidate received
+* The following is a breakdown of the number of votes and the percent of the total votes each candidate received:
+  * Charles Casper Stockham with a total of 85,213 votes, receiving 23% of the total votes.
+  * Diana Degette with a total of 272,892 votes, receiving 73.9% of the total votes.
+  * Raymon Anthony Doane with a total of 11,606 votes, receiving 3.1% of the total votes.
+  * ![alt text](https://github.com/amarks5/Election_Analysis/blob/main/Resources/votes_per_candidate_percentage.PNG)
 * Which candidate won the election, what was their vote count, and what was their percentage of the totla votes?
 ## Election-Audit Summary:
 1. could pull percentage of republican/democratic split(percentage)
