@@ -10,7 +10,8 @@
   * Jefferson: Total votes: 24,801, Percentage: 6.7%
   * ![alt text](https://github.com/amarks5/Election_Analysis/blob/main/Resources/county_votes_breakdown.PNG)
 
-* Which county had the largest number of votes?
+* County with largest turnout: Denver
+  * ![alt text](https://github.com/amarks5/Election_Analysis/blob/main/Resources/largest_county_turnout.PNG)
 * Provide a breakdown of the number of votes and the percental of the total votes each candidate received
 * Which candidate won the election, what was their vote count, and what was their percentage of the totla votes?
 ## Election-Audit Summary:
